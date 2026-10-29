@@ -6,16 +6,11 @@ Projeto Final de Machine Learning. Construímos um modelo de **classificação b
 
 ## Membros do grupo
 
-| Nome | Matrícula / RA | Usuário no Git | Responsabilidade |
-| --- | --- | --- | --- |
-| _Nome completo_ | _preencher_ | _@usuario_ | _ex.: dados e análise exploratória_ |
-| _Nome completo_ | _preencher_ | _@usuario_ | _ex.: modelagem e métricas_ |
-| _Nome completo_ | _preencher_ | _@usuario_ | _ex.: API_ |
-| _Nome completo_ | _preencher_ | _@usuario_ | _ex.: interface e documentação_ |
+| Nome 
+| --- 
+| Ana Clara Miguel
+| Vinicius Henrique
 
-**Disciplina / turma:** _preencher_  
-**Professor(a):** _preencher_  
-**Instituição:** _preencher_
 
 ---
 
@@ -101,8 +96,7 @@ A acurácia não é usada como critério, porque trata os dois tipos de erro com
 ## 3. Dados
 
 - **Dataset:** Heart Failure Prediction Dataset (Kaggle).
-- **Link da fonte:** _preencher_
-- **Licença:** _preencher com a licença da página do Kaggle e confirmar que permite o uso_
+- **Link da fonte:** (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resource=download)
 - **Tamanho:** 918 linhas × 12 colunas, sem duplicatas e sem valores vazios declarados.
 - **Balanceamento:** 508 pacientes com doença (55%) e 410 sem (45%).
 - **Perfil:** 725 homens e 193 mulheres (cerca de 79% homens).

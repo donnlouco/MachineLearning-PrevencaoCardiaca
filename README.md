@@ -8,10 +8,9 @@ Projeto Final de Machine Learning. Construímos um modelo de **classificação b
 
 | Nome | Matrícula / RA | Usuário no Git | Responsabilidade |
 | --- | --- | --- | --- |
-| _Nome completo_ | _preencher_ | _@usuario_ | _ex.: dados e análise exploratória_ |
-| _Nome completo_ | _preencher_ | _@usuario_ | _ex.: modelagem e métricas_ |
-| _Nome completo_ | _preencher_ | _@usuario_ | _ex.: API_ |
-| _Nome completo_ | _preencher_ | _@usuario_ | _ex.: interface e documentação_ |
+| _Nome completo_ | _preencher_ 
+| _Nome completo_ | _preencher_ 
+
 
 **Disciplina / turma:** _preencher_  
 **Professor(a):** _preencher_  
